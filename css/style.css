@@ -1,0 +1,13 @@
+/* declarar las constantes de colores y fuentes */
+
+:root{
+   /* fuentes */
+   --titulos:'Montserrat', sans-serif;
+   --parrafos:'Roboto', sans-serif;
+    /* colores */
+    --encabezado:rgb(71, 7, 52);
+    --piepagina:rgb(20, 19, 19);
+--enlace:#fff;
+--enlacesobre:rgb(179, 85, 85);
+
+}
